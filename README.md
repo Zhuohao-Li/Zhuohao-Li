@@ -7,8 +7,8 @@
 
 - 🍻 Senior(B.Eng) in [ECE](https://dmne.sjtu.edu.cn/dmne/) + [CS](https://www.cs.sjtu.edu.cn/)@ 🇨🇳 [SJTU](https://www.sjtu.edu.cn), exchange in [CSE](https://cse.hkust.edu.hk/)@ 🇭🇰[HKUST](https://hkust.edu.hk/). Looking for a **Master / PhD** position in the US started from 2023'fall
 - 💻 Currently working as a SWE intern(2022) at [NVIDIA](https://www.nvidia.com) SW-GPU, focusing on new CUDA Toolkit and drivers. [Apple](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern(2021).
-- ⚡ Stack: C++ / Python / Verilog / CUDA
-- ⭕️ Build heterogeneous and trustwhorthy computer architecture, system, compiler in data center, security, ML and other domain-specific areas
+- ⚡ Stack: CUDA / C++ / Verilog / Assembly (RISC-V, x68, MIPS) / Simulator-er?
+- ⭕️ Build heterogeneous and trustwhorthy computer architecture, systems in datacenters. Hardware security. Privacy-preserve ML DSA.
 <!--- 🚕 BEACHES 🏖️ , SUNSHINE ☀️ , Cook 🥩, Diving🏂
 - 📷 Phtograher / Vlogger with over 12k fans. Overall is over 320k 👀 -->
 - Homepage: https://zhuohaoli.com
