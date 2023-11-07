@@ -7,6 +7,7 @@
 
 - 💻 Build computer systems
 - CUDA / Rust / C++
+- Taco tuesday!!!! GIIIIII
 
 
 
