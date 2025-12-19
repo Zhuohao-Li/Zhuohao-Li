@@ -9,55 +9,32 @@
 
 <!-- 顶部大标题，可以写你名字 / 简介 -->
 # 👋 Hi, I'm Garrick
-
 ---
 
-<!-- GitHub 访问计数 -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Zhuohao-Li&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
 
-<!-- GitHub 总统计 + Rank -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zhuohao-Li&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<!-- WakaTime 语言统计（如果你没有 WakaTime，可以先留空或者删掉） -->
+<!-- WakaTime Stats (optional) -->
+<!-- 如果你还没有 WakaTime，可以删除下面这一整段 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhuohao-Li&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<!-- 贡献热力图 -->
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhuohao-Li&theme=github-dark&hide_border=true" />
 </p>
 
----
-
-## 🚀 Pinned Repositories
-
-<!-- 这里你也可以手动固定想要展示的项目链接 -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO1&theme=dark" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO2&theme=dark" />
-  </a>
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
-  <a href="https://junronglin.com"><img src="https://img.shields.io/badge/Website-Portfolio-informational" /></a>
-</p>
