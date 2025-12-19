@@ -9,29 +9,22 @@
 
 <!-- 顶部大标题，可以写你名字 / 简介 -->
 # 👋 Hi, I'm Garrick
----
 
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zhuohao-Li&color=brightgreen" alt="Profile views" />
 </p>
 
----
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhuohao-Li&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
----
 
 <!-- WakaTime Stats (optional) -->
 <!-- 如果你还没有 WakaTime，可以删除下面这一整段 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhuohao-Li&theme=dark&hide_border=true" />
 </p>
-
----
 
 <!-- Contribution Graph -->
 <p align="center">
