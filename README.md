@@ -8,26 +8,22 @@
 -->
 
 <!-- 顶部大标题，可以写你名字 / 简介 -->
-# 👋 Hi, I'm Garrick
+👋 Hi, I'm Garrick
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zhuohao-Li&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zhuohao-li&color=brightgreen" alt="Profile views" />
 </p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhuohao-Li&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
-<!-- WakaTime Stats (optional) -->
-<!-- 如果你还没有 WakaTime，可以删除下面这一整段 -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhuohao-Li&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Zhuohao-Li/Zhuohao-Li/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhuohao-Li&theme=github-dark&hide_border=true" />
-</p>
 
